@@ -32,7 +32,7 @@ Predicting Life Expectancy using various Machine Learning Methods.
 # 1) Multiple Linear Regression
 Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable.
 Accuracy:
-<img src="images/4.png" width="900" height="600">
+<img src="images/4.PNG" width="900" height="600">
 
 # 2) Support Vector Regression
 Support Vector Machine can also be used as a regression method, maintaining all the main features that characterize the algorithm (maximal margin). The Support Vector Regression (SVR) uses the same principles as the SVM for classification, with only a few minor differences.
